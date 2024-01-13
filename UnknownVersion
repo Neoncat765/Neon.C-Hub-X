@@ -203,3 +203,7 @@ Balls.ChildAdded:Connect(function(ball)
   GetBall(ball)
 end)
 end)
+
+KillingCheats:CreateButton("Made by Neoncat", function()
+print("SuckMyD")
+end)
